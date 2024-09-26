@@ -1,0 +1,2 @@
+# Yahoo-s-Acquisition-of-Tumblr-Digital-Technologies-and-Value-Creation
+This project explores Yahoo's $1.1 billion acquisition of Tumblr, focusing on user growth, monetization challenges and strategic opportunities for value creation. It evaluates whether the acquisition was an overvaluation by leveraging time series forecasting, API scraping and data-driven insights to analyze Tumblr's platform and its impact on Yahoo
